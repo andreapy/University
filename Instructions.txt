@@ -1,0 +1,32 @@
+Para actualizar la información de tu GitHub procede con los siguientes pasos:
+
+* abre una terminal
+
+* entra a la carpeta andreapy/University
+
+  > cd andreapy/University/
+
+* Hala toda la información que hay en un tu repositorio online remoto
+
+  > git pull
+
+* Adiciona la nueva información a una memoria temporal 
+
+  > git add *
+
+* Somete los nuevos archivos indicando en un comentario lo que estás subiendo o cambiando
+
+  > git commit -m 'entre estas comillas pones tu comentario'
+
+* Finalmente sube todo la web
+
+  > git push
+
+(al introducir esta última línea quizás la terminal te pida tu usuari: andreapy y clave)
+
+* Abre Safari y reviza que la información haya quedado actualizada
+
+  http://github.com/andreapy/University
+
+
+Listo!!!
