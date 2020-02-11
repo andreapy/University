@@ -1,5 +1,5 @@
 RF	EXAM	ActAdm	Actdosi	Vol
-Tc	MDP	20	20.9	0.3
+Tc	MDP	20      20.9	0.3
 Tc	MDP	20	20.8	0.35
 Tc	MDP	20	21	0.4
 Tc	MDP	20	21	0.4
