@@ -1,0 +1,4 @@
+Fecha Radiofarmaco ActivIny HoraIny HoraRecep ActivAdm HoraAdm ActivDosi VolDosi HoraDosi 		
+10/06/2019 GADOTA  2.1	    14:05   13:50     3.9      13:35   3.2	 7.5	 13:23
+09/09/2019 GADOTA  4.16	    13:06   13:05     4.6      12:00   6	 6	 11:56
+09/09/2019 GADOTA  4.55	    14:01   13:05     3.9      13:30   10.2	 7.6	 12:47
